@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px 20210912_172501.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="20210912_172501.jpg" width="200" height="200"/>
   <p align="center"
 <a href="#"><img title="MOTHALALI_Sir" src="https://img.shields.io/badge/MOTHALALI_Sir-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
