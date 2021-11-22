@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MOTHALALI_Sir" src="https://img.shields.io/badge/MOTHALALI_Sir-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Pavishibu"><img title="Author" src="https://img.shields.io/badge/Author-Pavishibu/MOTHALALI_Sir?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/Pavishibu">Pavishibu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pavishibu/MOTHALALI_Sir) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -32,8 +32,8 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/Pavishibu/MOTHALALI_Sir
+$ cd MOTHALALI_Sir
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -41,8 +41,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/Pavishibu/MOTHALALI_Sir
+$ cd MOTHALALI_Sir
 $ npm i
 $ node julie.js
 ```
@@ -69,7 +69,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Nandhutty_v2&theme=nightowl)](https://github.com/Ajmal-Achu/Nandhutty_v2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pavishibu&repo=MOTHALALI_Sir&theme=nightowl)](https://github.com/Pavishibu/MOTHALALI_Sir)
   </div>
     
 ### ⚠️ Warning! 
@@ -82,15 +82,15 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## THANKS TO
 * [`Baileys`]
-* [`Ajmal-Achu`](github.com/Ajmal-Achu)
+* [`Pavishibu`](github.com/Pavishibu)
 * [`Farhan-dqz`](github.com/Farhan-dqz)
 
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Ajmal-Achu](https://github.com/Ajmal-Achu.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Pavishibu](https://github.com/Pavishibu.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Ajmal-Achu](https://github.com/Ajmal-Achu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/faorhan-dqz) | [Pavishibu](https://github.com/Pavishibu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
