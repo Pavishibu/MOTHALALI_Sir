@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Nandhutty working!')
+            chalk.green.bold('✅ MOTHALALI_Sir working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -391,7 +391,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Nandhutty ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ MOTHALALI_Sir ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```Report errors\njoin with +91 \nhttps://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6``` ' 
                                     , MessageType.text);
                             }
